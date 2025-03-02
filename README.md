@@ -39,8 +39,7 @@ Secure-Stego is a **Python-based steganography tool** that allows users to **sec
 
 ### 🔹 Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/secure-stego.git
-cd secure-stego
+git clone https://github.com/leaf-0/AI-Powered-Steganography.git
 ```
 💡 Contributing
 💙 We welcome contributions!
